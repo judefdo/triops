@@ -1,0 +1,27 @@
+html p.just{
+	text-align:justify;
+}/* Add here all your CSS customizations */
+
+html li.act > a:visited
+{
+	background-color:#a7cf3f;
+}
+html .bgtemp
+{
+	background-color:#333;
+}
+.col-sm-7-new
+{
+width: auto;
+
+}
+.newone{
+	clear:both;
+}
+.header-social-icons {
+    list-style-type: none;
+    display: flex;
+}
+.header-social-icons li {
+    margin-right: 1rem;
+}
