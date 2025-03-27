@@ -861,8 +861,7 @@ Basic knowledge of blueprint reading and geometric dimensioning and tolerancing,
 								<h5>Contact Us</h5>
 								<ul class="contact">
 								<li><p><i class="fa fa-map-marker"></i> <strong>Address:</strong> 478 West Piedmont Drive, Mountain House, CA,95391</p></li>
-                                                                <li><p><i class="fa fa-map-marker"></i> <strong>Address:</strong> 2300 W Sahara Ave #800, Las Vegas, NV 89102</p></li>
-									<li><p><i class="fa fa-phone"></i> <strong>Phone:</strong> (408) 504-1009</p></li>
+ 									<li><p><i class="fa fa-phone"></i> <strong>Phone:</strong> (408) 504-1009</p></li>
                                     <li><p><i class="fa fa-print"></i> <strong>Fax:</strong> 925-487-0655</p></li>
 									<li><p><i class="fa fa-envelope"></i> <strong>Email:</strong> <a href="contact-us.php">info@triopsinfo.com</a></p></li>
 								</ul>
