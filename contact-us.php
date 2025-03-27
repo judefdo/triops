@@ -85,7 +85,7 @@
 							<div class="header-column">
 								<div class="header-logo">
                                 <a href="index.html">
-									<img alt="Triops Info" width="200" height="87" data-sticky-width="100" data-sticky-height="43" data-sticky-top="33" src="images/triops-logo.webp">
+									<img alt="Triops Info" width="150" height="87" data-sticky-width="100" data-sticky-height="43" data-sticky-top="33" src="images/triops-logo.webp">
                                     </a>
 								</div>
                                 
